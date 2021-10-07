@@ -41,7 +41,7 @@ I'm an **Undergrad Student🎓 [@BUE](https://www.bue.edu.eg)** studying CSE. I'
   <img align="left" alt="Hossam's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-<a href="https://www.hackerrank.com/hossam180871">
+<a href="https://www.hackerrank.com/abdozargina">
   <img align="left" alt="Hossam's HackerRank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hackerrank_meaningful_logo.svg/216px-Hackerrank_meaningful_logo.svg.png" />
 </a>
 
