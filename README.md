@@ -1,4 +1,4 @@
-<h1 align="center"> <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' width="30"/> Hello World!, I'm <a href="https://github.com/abdozargina">Hossam</a> 
+<h1 align="center"> <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' width="30"/> Hello World!, I'm <a href="https://github.com/techyjunkie">Hossam</a> 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm an **Undergrad Student🎓 [@BUE](https://www.bue.edu.eg)** studying CSE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
@@ -7,18 +7,18 @@ I'm an **Undergrad Student🎓 [@BUE](https://www.bue.edu.eg)** studying CSE. I'
 
 #### 📬 Find me at
 
-<!-- [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/abdozargina/)](https://github.com/abdozargina/) 
+<!-- [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/techyjunkie/)](https://github.com/techyjunkie/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hossam-kamel-8b72b61ab/)](https://www.linkedin.com/in/hossam-kamel-8b72b61ab/)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/hossam180871)](https://www.hackerrank.com/hossam180871)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11534375/hemanth-kollipara)](https://stackoverflow.com/users/16728881/abdozargina)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11534375/hemanth-kollipara)](https://stackoverflow.com/users/16728881/techyjunkie)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hossam.kamelk@gmail.com)](mailto:hossam.kamelk@gmail.com) -->
 
-<a href="https://github.com/abdozargina">
+<a href="https://github.com/techyjunkie">
   <img align="left" alt="Hossam's Github" width="22px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 </a>
 
-<a href="https://twitter.com/abdozargina">
+<a href="https://twitter.com/techyjunkie">
   <img align="left" alt="Hossam | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
@@ -26,7 +26,7 @@ I'm an **Undergrad Student🎓 [@BUE](https://www.bue.edu.eg)** studying CSE. I'
   <img align="left" alt="Hossam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://github.com/abdozargina">
+<a href="https://github.com/techyjunkie">
   <img align="left" alt="Hossam's stackoverflow profile" width="22px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
 </a>
 
@@ -40,7 +40,7 @@ I'm an **Undergrad Student🎓 [@BUE](https://www.bue.edu.eg)** studying CSE. I'
   <img align="left" alt="Hossam's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-<a href="https://www.hackerrank.com/abdozargina">
+<a href="https://www.hackerrank.com/techyjunkie">
   <img align="left" alt="Hossam's HackerRank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hackerrank_meaningful_logo.svg/216px-Hackerrank_meaningful_logo.svg.png" />
 </a>
 
@@ -48,8 +48,8 @@ I'm an **Undergrad Student🎓 [@BUE](https://www.bue.edu.eg)** studying CSE. I'
   <img align="left" alt="Hossam's Whatsapp" width="22px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />
 </a>
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=abdozargina) -->
-![Profile Views](https://komarev.com/ghpvc/?username=abdozargina)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=techyjunkie) -->
+![Profile Views](https://komarev.com/ghpvc/?username=techyjunkie)
 
 
 
@@ -87,19 +87,19 @@ I'm an **Undergrad Student🎓 [@BUE](https://www.bue.edu.eg)** studying CSE. I'
 
 ### 🚀 Quick Stats
 <!-- <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdozargina&show_icons=true&theme=tokyonight" />
-<img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=abdozargina&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdozargina&theme=react&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=techyjunkie&show_icons=true&theme=tokyonight" />
+<img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=techyjunkie&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techyjunkie&theme=react&line_height=27&layout=compact" />
 </p> -->
 
 
 
 <p align="center"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdozargina&show_icons=true" alt="abdozargina_stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdozargina&layout=compact" alt="abdozargina_stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abdozargina&" alt="abdozargina_stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=techyjunkie&show_icons=true" alt="techyjunkie_stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techyjunkie&layout=compact" alt="techyjunkie_stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=techyjunkie&" alt="techyjunkie_stats"/>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdozargina" alt="Hossam Profile visits" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=techyjunkie" alt="Hossam Profile visits" /></p>
  </p>
 
 
