@@ -18,10 +18,6 @@ I'm an **Undergrad Student🎓 [@BUE](https://www.bue.edu.eg)** studying CSE. I'
   <img align="left" alt="Hossam's Github" width="22px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/hossam-kamel-8b72b61ab/">
-  <img align="left" alt="Hossam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 <a href="https://github.com/Hossamster">
   <img align="left" alt="Hossam's stackoverflow profile" width="22px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
 </a>
