@@ -19,7 +19,7 @@ I'm an **Undergrad Student🎓 [@BUE](https://www.bue.edu.eg)** studying CSE. I'
 </a>
 
 <a href="https://twitter.com/Hossamster">
-  <img align="left" alt="Hossam | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Hossam | Twitter" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALogo_of_Twitter.svg&psig=AOvVaw1Sk_d9IZTYcONIUxu3YeYT&ust=1690377447298000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiy5Oz4qYADFQAAAAAdAAAAABAE" />
 </a>
 
 <a href="https://www.linkedin.com/in/hossam-kamel-8b72b61ab/">
