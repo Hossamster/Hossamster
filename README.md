@@ -18,10 +18,6 @@ I'm an **Undergrad Student🎓 [@BUE](https://www.bue.edu.eg)** studying CSE. I'
   <img align="left" alt="Hossam's Github" width="22px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 </a>
 
-<a href="https://twitter.com/Hossamster">
-  <img align="left" alt="Hossam | Twitter" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALogo_of_Twitter.svg&psig=AOvVaw1Sk_d9IZTYcONIUxu3YeYT&ust=1690377447298000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiy5Oz4qYADFQAAAAAdAAAAABAE" />
-</a>
-
 <a href="https://www.linkedin.com/in/hossam-kamel-8b72b61ab/">
   <img align="left" alt="Hossam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -34,14 +30,6 @@ I'm an **Undergrad Student🎓 [@BUE](https://www.bue.edu.eg)** studying CSE. I'
 
 <a href="mailto:hossam.kamelk@gmail.com">
   <img align="left" alt="Hossam's Email" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-</a>
-
-<a href="https://discord.gg/">
-  <img align="left" alt="Hossam's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-
-<a href="https://www.hackerrank.com/Hossamster">
-  <img align="left" alt="Hossam's HackerRank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hackerrank_meaningful_logo.svg/216px-Hackerrank_meaningful_logo.svg.png" />
 </a>
 
 <a href="https://ibb.co/BwYjf3x">
